@@ -42,6 +42,7 @@ $(function () {
 
 
     // TODO 3 - Create Collectables
+    createCollectable('max')
 
 
 
