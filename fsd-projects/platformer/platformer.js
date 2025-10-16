@@ -42,7 +42,9 @@ $(function () {
 
 
     // TODO 3 - Create Collectables
-    createCollectable('max')
+    createCollectable("steve",1100,500)
+    createCollectable("max",200,400)
+    createCollectable("diamond",800,100)
 
 
 
